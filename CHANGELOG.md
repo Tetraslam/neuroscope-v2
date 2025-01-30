@@ -2,6 +2,9 @@
 
 ## [Unreleased]
 
+### Changed
+- Simplified README.md to be more concise while maintaining essential information
+
 ### Added
 - Basic Python bridge service with FastAPI
 - PyTorch model import functionality
