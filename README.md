@@ -31,7 +31,6 @@ npm run dev
 
 ```bash
 # Terminal 2: Start Python service (requires Python 3.11)
-```bash
 cd python_service
 python3.11 -m uvicorn main:app --reload
 ```
